@@ -1,0 +1,80 @@
+[14:33:27] [SadegelCore] Creat PRODUCT VETEADO MANZANA Y CANELA TR X 2 KG, TYPE: raw, CATEGORY: HELADERIA
+[14:34:22] [SadegelCore] Creat PRODUCT GOLOSA CIOCCOLATO BIANCO TR X 3 KG, TYPE: raw, CATEGORY: HELADERIA
+[14:34:51] [SadegelCore] Creat PRODUCT GOLOSA TOFFEE MOU TR X 3KG, TYPE: raw, CATEGORY: HELADERIA
+[14:35:17] [SadegelCore] Creat PRODUCT STRACCIATELLA LIMON GELATIAMO, TYPE: raw, CATEGORY: HELADERIA
+[14:35:33] [SadegelCore] Creat PRODUCT GOLOSA FONDENTE TR X 3 KG, TYPE: raw, CATEGORY: HELADERIA
+[14:35:56] [SadegelCore] Creat PRODUCT VARIEGATO BIANCO CON RISO SOFFIATO TR X 2,5 KG, TYPE: raw, CATEGORY: HELADERIA
+[14:36:13] [SadegelCore] Creat PRODUCT VARIEGATO MARACUJA TR X 3 KG, TYPE: raw, CATEGORY: HELADERIA
+[14:36:28] [SadegelCore] Creat PRODUCT GALLETA CARAMELIZADA MOLIDA (SPECULOOS) BL X 750 GR, TYPE: raw, CATEGORY: HELADERIA
+[14:36:47] [SadegelCore] Creat PRODUCT GOLOSA PISTACCHIO TR X 3 KG, TYPE: raw, CATEGORY: HELADERIA
+[14:37:03] [SadegelCore] Creat PRODUCT VARIEGATO SALE ROSA HIMALAYA GELATIAMO, TYPE: raw, CATEGORY: HELADERIA
+[14:37:18] [SadegelCore] Creat PRODUCT VARIEGATO QUE BUENO GELATIAMO, TYPE: raw, CATEGORY: HELADERIA
+[14:37:35] [SadegelCore] Creat PRODUCT FRUITES  DEL BOSC IQF ROGELFRUT CJ X 5 KG, TYPE: raw, CATEGORY: HELADERIA
+[14:37:50] [SadegelCore] Creat PRODUCT FRUTA FRESCA VARIADA (DECORACION), TYPE: raw, CATEGORY: HELADERIA
+[14:38:12] [SadegelCore] Creat PRODUCT MADUIXA TOUTVENENT IQF ROGELFRUT CJ X 5 KG, TYPE: raw, CATEGORY: HELADERIA
+[14:38:26] [SadegelCore] Creat PRODUCT MANGO A DAUS IQF 10X10 mm ROGELFRUT CJ X 5 KG, TYPE: raw, CATEGORY: HELADERIA
+[14:38:39] [SadegelCore] Creat PRODUCT MELO CUBS IRREGULARS IQF ROGELFRUT CJ X 5 KG, TYPE: raw, CATEGORY: HELADERIA
+[14:38:51] [SadegelCore] Creat PRODUCT PLATAN A RODANXES IQF ROGELFRUT CJ X 5 KG, TYPE: raw, CATEGORY: HELADERIA
+[14:39:02] [SadegelCore] Creat PRODUCT PRESSEC A RODANXES IQF ROGELFRUT CJ X 5 KG, TYPE: raw, CATEGORY: HELADERIA
+[14:39:17] [SadegelCore] Creat PRODUCT TUTTA FRUTA MANGO CJ X 8 BL X 1,5 KG, TYPE: raw, CATEGORY: HELADERIA
+[14:39:30] [SadegelCore] Excepció al crear PRODUCT TUTTA FRUTA MANGO CJ X 8 BL X 1,5 KG raw
+[14:39:30] Duplicate entry 'TUTTA FRUTA MANGO CJ X 8 BL X 1,5 KG' for key 'productName'
+[14:39:30]    at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at SadegelCore.Product.Create(String Name, String Type, Single Weight, String BaseUnit, ProductCategory Category, Boolean IsIcecream, String MainIdentifier)
+[14:39:51] [SadegelCore] Excepció al crear PRODUCT TUTTA FRUTA MANGO CJ X 8 BL X 1,5 KG raw
+[14:39:51] Duplicate entry 'TUTTA FRUTA MANGO CJ X 8 BL X 1,5 KG' for key 'productName'
+[14:39:51]    at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at SadegelCore.Product.Create(String Name, String Type, Single Weight, String BaseUnit, ProductCategory Category, Boolean IsIcecream, String MainIdentifier)
+[14:42:47] [SadegelCore] Creat PRODUCT TUTTA FRUTTA MARACUYA BR X 1,5 KG CJ X 8 BR, TYPE: raw, CATEGORY: HELADERIA
+[14:43:02] [SadegelCore] Creat PRODUCT TUTTA FRUTTA PERA BR X 1,5 KG CJ X 8 BR, TYPE: raw, CATEGORY: HELADERIA
+[14:43:20] [SadegelCore] Creat PRODUCT FRESA ENTERAS BL X 2,5 KG, TYPE: raw, CATEGORY: HELADERIA
+[14:43:37] [SadegelCore] Creat PRODUCT FRUTOS DEL BOSQUE 6 VARIEDADES BL X 2,5 KG, TYPE: raw, CATEGORY: HELADERIA
+[14:43:51] [SadegelCore] Creat PRODUCT MANGO A DADOS 20*20 BL X 2,5 KG, TYPE: raw, CATEGORY: HELADERIA
+[14:44:24] [SadegelCore] Creat PRODUCT PIÑA A TROSOS BL X 2,5 KG, TYPE: raw, CATEGORY: HELADERIA
+[14:44:41] [SadegelCore] Creat PRODUCT FIDEOS CHOCOLATE, HACENDADO, PAQUETE 100 G, TYPE: raw, CATEGORY: HELADERIA
+[14:45:30] [SadegelCore] Creat PRODUCT LECHE ENTERA**PACK AHORRO**, HACENDADO, PACK 6 BR X 1 Lt, TYPE: raw, CATEGORY: HELADERIA
+[14:45:46] [SadegelCore] Creat PRODUCT GALLETA DIGESTIVE, HACENDADO, CAJA 2 TUBOS - 800 g, TYPE: raw, CATEGORY: HELADERIA
+[14:46:01] [SadegelCore] Creat PRODUCT AZUCAR BLANQUILLA, RAR PAQUETE 1kg, TYPE: raw, CATEGORY: HELADERIA
+[14:46:22] [SadegelCore] Creat PRODUCT CARAMELLO SALATO GELATIAMO TR X 1,4 CJ X 6 TR, TYPE: raw, CATEGORY: HELADERIA
+[14:46:36] [SadegelCore] Creat PRODUCT VARIEGATURA ARANCIA TR X 6 KG, TYPE: raw, CATEGORY: HELADERIA
+[14:47:18] [SadegelCore] Creat PRODUCT TOPPING CARAMELO, TYPE: raw, CATEGORY: HELADERIA
+[14:47:29] [SadegelCore] Creat PRODUCT NUTELLA, TYPE: raw, CATEGORY: HELADERIA
+[14:49:04] [SadegelCore] Creat PRODUCT HELADO LIMON, TYPE: manufactured, CATEGORY: HELADERIA
+[14:58:02] [SadegelCore] Afegir ingredient 6 per a PRODUCT 84
+[14:58:39] [SadegelCore] Actualitzat PRODUCT 84
+[14:59:00] [SadegelCore] Creat PRODUCT HELADO COCO, TYPE: manufactured, CATEGORY: HELADERIA
+[15:00:06] [SadegelCore] Afegir ingredient 1 per a PRODUCT 85
+[15:01:48] [SadegelCore] Afegir ingredient 16 per a PRODUCT 85
+[15:01:57] [SadegelCore] Actualitzat PRODUCT 85
+[15:02:15] [SadegelCore] Creat PRODUCT HELADO MANGO, TYPE: manufactured, CATEGORY: HELADERIA
+[15:04:11] [SadegelCore] Afegir ingredient 4 per a PRODUCT 86
+[15:05:17] [SadegelCore] Afegir ingredient 67 per a PRODUCT 86
+[15:05:36] [SadegelCore] Actualitzat PRODUCT 86
+[15:06:04] [SadegelCore] Creat PRODUCT HELADO FRESA, TYPE: manufactured, CATEGORY: HELADERIA
+[15:07:17] [SadegelCore] Afegir ingredient 4 per a PRODUCT 87
+[15:08:43] [SadegelCore] Afegir ingredient 62 per a PRODUCT 87
+[15:09:10] [SadegelCore] Afegir ingredient 72 per a PRODUCT 87
+[15:09:28] [SadegelCore] Actualitzat PRODUCT 87
+[15:10:13] [SadegelCore] Creat PRODUCT HELADO FRUTOS BOSQUE, TYPE: manufactured, CATEGORY: HELADERIA
+[15:11:11] [SadegelCore] Afegir ingredient 4 per a PRODUCT 88
+[15:12:03] [SadegelCore] Afegir ingredient 60 per a PRODUCT 88
+[15:12:08] [SadegelCore] Actualitzat PRODUCT 88
+[15:12:36] [SadegelCore] Creat PRODUCT HELADO STRACIATELLA, TYPE: manufactured, CATEGORY: HELADERIA
+[15:14:44] [SadegelCore] Afegir ingredient 1 per a PRODUCT 89
+[15:16:11] [SadegelCore] Afegir ingredient 46 per a PRODUCT 89
+[15:16:29] [SadegelCore] Eliminat ingredient de PRODUCT 89
+[15:16:50] [SadegelCore] Afegir ingredient 46 per a PRODUCT 89
+[15:16:53] [SadegelCore] Actualitzat PRODUCT 89
+[15:17:14] [SadegelCore] Creat PRODUCT HELADO YOGUR, TYPE: manufactured, CATEGORY: HELADERIA

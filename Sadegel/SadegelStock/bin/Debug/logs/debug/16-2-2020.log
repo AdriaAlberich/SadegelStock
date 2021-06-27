@@ -1,0 +1,84 @@
+[15:19:40] [SadegelCore] Creat PRODUCT HELADO PIÑA, TYPE: manufactured, CATEGORY: HELADERIA
+[15:21:15] [SadegelCore] Afegir ingredient 4 per a PRODUCT 113
+[15:23:36] [SadegelCore] Afegir ingredient 61 per a PRODUCT 113
+[15:24:35] [SadegelCore] Afegir ingredient 75 per a PRODUCT 113
+[15:25:26] [SadegelCore] Actualitzat PRODUCT 113
+[15:26:18] [SadegelCore] Creat PRODUCT HELADO MELON, TYPE: manufactured, CATEGORY: HELADERIA
+[15:27:27] [SadegelCore] Afegir ingredient 4 per a PRODUCT 114
+[15:28:07] [SadegelCore] Afegir ingredient 61 per a PRODUCT 114
+[15:28:40] [SadegelCore] Afegir ingredient 64 per a PRODUCT 114
+[15:28:51] [SadegelCore] Actualitzat PRODUCT 114
+[15:29:04] [SadegelCore] Creat PRODUCT HELADO SANDIA, TYPE: manufactured, CATEGORY: HELADERIA
+[15:30:24] [SadegelCore] Afegir ingredient 4 per a PRODUCT 115
+[15:32:14] [SadegelCore] Afegir ingredient 61 per a PRODUCT 115
+[15:32:24] [SadegelCore] Actualitzat PRODUCT 115
+[15:32:40] [SadegelCore] Creat PRODUCT HELADO MELOCOTON, TYPE: manufactured, CATEGORY: HELADERIA
+[15:35:54] [SadegelCore] Afegir ingredient 4 per a PRODUCT 116
+[15:36:31] [SadegelCore] Afegir ingredient 61 per a PRODUCT 116
+[15:37:04] [SadegelCore] Afegir ingredient 66 per a PRODUCT 116
+[15:37:16] [SadegelCore] Actualitzat PRODUCT 116
+[15:37:29] [SadegelCore] Creat PRODUCT HELADO APPLE PIE, TYPE: manufactured, CATEGORY: HELADERIA
+[15:38:18] [SadegelCore] Afegir ingredient 1 per a PRODUCT 117
+[15:39:44] [SadegelCore] Afegir ingredient 38 per a PRODUCT 117
+[15:40:28] [SadegelCore] Afegir ingredient 49 per a PRODUCT 117
+[15:41:14] [SadegelCore] Afegir ingredient 61 per a PRODUCT 117
+[15:41:47] [SadegelCore] Afegir ingredient 78 per a PRODUCT 117
+[15:41:51] [SadegelCore] Actualitzat PRODUCT 117
+[15:42:10] [SadegelCore] Creat PRODUCT HELADO MACADAMIA, TYPE: manufactured, CATEGORY: HELADERIA
+[15:42:56] [SadegelCore] Afegir ingredient 1 per a PRODUCT 118
+[15:43:44] [SadegelCore] Afegir ingredient 25 per a PRODUCT 118
+[15:44:20] [SadegelCore] Afegir ingredient 51 per a PRODUCT 118
+[15:44:40] [SadegelCore] Actualitzat PRODUCT 118
+[15:44:54] [SadegelCore] Creat PRODUCT HELADO MALAGA, TYPE: manufactured, CATEGORY: HELADERIA
+[15:46:38] [SadegelCore] Afegir ingredient 1 per a PRODUCT 119
+[15:47:13] [SadegelCore] Afegir ingredient 21 per a PRODUCT 119
+[15:47:21] [SadegelCore] Actualitzat PRODUCT 119
+[15:47:35] [SadegelCore] Creat PRODUCT HELADO CONGUITOS, TYPE: manufactured, CATEGORY: HELADERIA
+[15:48:26] [SadegelCore] Afegir ingredient 1 per a PRODUCT 120
+[15:48:34] [SadegelCore] Eliminat ingredient de PRODUCT 120
+[15:48:45] [SadegelCore] Afegir ingredient 1 per a PRODUCT 120
+[15:49:26] [SadegelCore] Afegir ingredient 8 per a PRODUCT 120
+[15:50:06] [SadegelCore] Afegir ingredient 46 per a PRODUCT 120
+[15:50:28] [SadegelCore] Actualitzat PRODUCT 120
+[15:50:49] [SadegelCore] Creat PRODUCT HELADO SNICKER, TYPE: manufactured, CATEGORY: HELADERIA
+[15:51:28] [SadegelCore] Afegir ingredient 1 per a PRODUCT 121
+[15:52:11] [SadegelCore] Afegir ingredient 8 per a PRODUCT 121
+[15:53:05] [SadegelCore] Afegir ingredient 46 per a PRODUCT 121
+[15:53:41] [SadegelCore] Afegir ingredient 82 per a PRODUCT 121
+[15:53:48] [SadegelCore] Actualitzat PRODUCT 121
+[15:54:07] [SadegelCore] Creat PRODUCT HELADO NUTELLA, TYPE: manufactured, CATEGORY: HELADERIA
+[15:54:45] [SadegelCore] Afegir ingredient 2 per a PRODUCT 122
+[15:56:01] [SadegelCore] Afegir ingredient 83 per a PRODUCT 122
+[15:56:07] [SadegelCore] Actualitzat PRODUCT 122
+[15:56:24] [SadegelCore] Creat PRODUCT HELADO CHOCO NEGRO, TYPE: manufactured, CATEGORY: HELADERIA
+[15:56:53] [SadegelCore] Creat PRODUCT HELADO PERA, TYPE: manufactured, CATEGORY: HELADERIA
+[15:57:32] [SadegelCore] Afegir ingredient 4 per a PRODUCT 124
+[15:58:17] [SadegelCore] Afegir ingredient 71 per a PRODUCT 124
+[15:58:29] [SadegelCore] Actualitzat PRODUCT 124
+[15:58:46] [SadegelCore] Creat PRODUCT HELADO BAYLEYS, TYPE: manufactured, CATEGORY: HELADERIA
+[15:59:21] [SadegelCore] Afegir ingredient 1 per a PRODUCT 125
+[16:00:32] [SadegelCore] Afegir ingredient 32 per a PRODUCT 125
+[16:01:10] [SadegelCore] Afegir ingredient 42 per a PRODUCT 125
+[16:01:35] [SadegelCore] Actualitzat PRODUCT 125
+[16:02:20] [SadegelCore] Creat PRODUCT HELADO CHICLE, TYPE: manufactured, CATEGORY: HELADERIA
+[16:03:14] [SadegelCore] Afegir ingredient 1 per a PRODUCT 126
+[16:04:07] [SadegelCore] Afegir ingredient 17 per a PRODUCT 126
+[16:04:28] [SadegelCore] Afegir ingredient 31 per a PRODUCT 126
+[16:04:36] [SadegelCore] Actualitzat PRODUCT 126
+[16:06:43] [SadegelCore] Creat PRODUCT CON CROCANTI, TYPE: consumable, CATEGORY: HELADERIA
+[16:08:26] [SadegelCore] Creat PRODUCT CON GRAN 3B, TYPE: consumable, CATEGORY: HELADERIA
+[16:09:31] [SadegelCore] Creat PRODUCT CON MITJA 2B, TYPE: consumable, CATEGORY: HELADERIA
+[16:09:42] [SadegelCore] Actualitzat PRODUCT 127
+[16:09:56] [SadegelCore] Actualitzat PRODUCT 128
+[16:10:40] [SadegelCore] Creat PRODUCT CON PETIT 1B, TYPE: consumable, CATEGORY: HELADERIA
+[16:11:51] [SadegelCore] Creat PRODUCT TERRINA GRAN 4B, TYPE: manufactured, CATEGORY: HELADERIA
+[16:12:08] [SadegelCore] Creat PRODUCT TERRINA MITJANA, TYPE: consumable, CATEGORY: HELADERIA
+[16:12:16] [SadegelCore] Actualitzat PRODUCT 131
+[16:12:45] [SadegelCore] Creat PRODUCT TERRINA PETITA 2B, TYPE: consumable, CATEGORY: HELADERIA
+[16:13:39] [SadegelCore] Creat PRODUCT MINI CONO, TYPE: consumable, CATEGORY: HELADERIA
+[16:14:06] [SadegelCore] Creat PRODUCT BOLA EXTRAGELAT, TYPE: consumable, CATEGORY: HELADERIA
+[16:14:44] [SadegelCore] Creat PRODUCT SAFATA 1/2 L, TYPE: manufactured, CATEGORY: HELADERIA
+[16:14:53] [SadegelCore] Actualitzat PRODUCT 136
+[16:15:13] [SadegelCore] Creat PRODUCT SAFATA 1 L, TYPE: consumable, CATEGORY: HELADERIA
+[16:15:19] [SadegelCore] Actualitzat PRODUCT 136
+[16:16:28] [SadegelCore] Creat PRODUCT CIOCCOMENTA, TYPE: consumable, CATEGORY: HELADERIA

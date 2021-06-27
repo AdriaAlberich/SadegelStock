@@ -1,0 +1,34 @@
+[13:37:06] [SadegelCore] Creat PRODUCTCATEGORY PASTISSERIA
+[13:37:34] [SadegelCore] Error a l'actualitzar PRODUCTCATEGORY BOLLERIA
+[14:11:34] [SadegelCore] Excepció al eliminar COUNTRY PT
+[14:11:34] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '* FROM SADEGEL_STOCK_COUNTRY WHERE isoCode = 'PT'' at line 1
+[14:11:34]    at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at SadegelCore.Country.Delete()
+[14:11:51] [SadegelCore] Excepció al eliminar COUNTRY ES
+[14:11:51] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '* FROM SADEGEL_STOCK_COUNTRY WHERE isoCode = 'ES'' at line 1
+[14:11:51]    at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at SadegelCore.Country.Delete()
+[14:12:24] [SadegelCore] Creat COUNTRY Mexico
+[14:12:51] [SadegelCore] Excepció al eliminar COUNTRY MEX
+[14:12:51] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '* FROM SADEGEL_STOCK_COUNTRY WHERE isoCode = 'MEX'' at line 1
+[14:12:51]    at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at SadegelCore.Country.Delete()
+[14:17:37] [SadegelCore] Eliminat COUNTRY MEX

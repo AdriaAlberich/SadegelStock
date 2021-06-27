@@ -1,0 +1,45 @@
+[14:32:04] Unable to connect to any of the specified MySQL hosts.
+[14:32:28] Connectat al servidor de Exchange de manera satisfactòria
+[14:32:32] The request failed. The remote server returned an error: (401) Unauthorized.
+[14:32:32]    at Microsoft.Exchange.WebServices.Data.ServiceRequestBase.GetEwsHttpWebResponse(IEwsHttpWebRequest request)
+   at Microsoft.Exchange.WebServices.Data.ServiceRequestBase.ValidateAndEmitRequest(IEwsHttpWebRequest& request)
+   at Microsoft.Exchange.WebServices.Data.SimpleServiceRequestBase.InternalExecute()
+   at Microsoft.Exchange.WebServices.Data.MultiResponseServiceRequest`1.Execute()
+   at Microsoft.Exchange.WebServices.Data.ExchangeService.FindItems[TItem](IEnumerable`1 parentFolderIds, SearchFilter searchFilter, String queryString, ViewBase view, Grouping groupBy, ServiceErrorHandling errorHandlingMode)
+   at Microsoft.Exchange.WebServices.Data.ExchangeService.FindItems(FolderId parentFolderId, SearchFilter searchFilter, ViewBase view)
+   at Microsoft.Exchange.WebServices.Data.ExchangeService.FindItems(WellKnownFolderName parentFolderName, SearchFilter searchFilter, ViewBase view)
+   at SadegelBot.Exchange.ProcessNewEmails() in F:\Repositorios\SadegelStock\SadegelStock\Sadegel\SadegelBot\Exchange.cs:line 73
+[14:33:03] Connectat al servidor de Exchange de manera satisfactòria
+[14:33:07] The request failed. The remote server returned an error: (401) Unauthorized.
+[14:33:07]    at Microsoft.Exchange.WebServices.Data.ServiceRequestBase.GetEwsHttpWebResponse(IEwsHttpWebRequest request)
+   at Microsoft.Exchange.WebServices.Data.ServiceRequestBase.ValidateAndEmitRequest(IEwsHttpWebRequest& request)
+   at Microsoft.Exchange.WebServices.Data.SimpleServiceRequestBase.InternalExecute()
+   at Microsoft.Exchange.WebServices.Data.MultiResponseServiceRequest`1.Execute()
+   at Microsoft.Exchange.WebServices.Data.ExchangeService.FindItems[TItem](IEnumerable`1 parentFolderIds, SearchFilter searchFilter, String queryString, ViewBase view, Grouping groupBy, ServiceErrorHandling errorHandlingMode)
+   at Microsoft.Exchange.WebServices.Data.ExchangeService.FindItems(FolderId parentFolderId, SearchFilter searchFilter, ViewBase view)
+   at Microsoft.Exchange.WebServices.Data.ExchangeService.FindItems(WellKnownFolderName parentFolderName, SearchFilter searchFilter, ViewBase view)
+   at SadegelBot.Exchange.ProcessNewEmails() in F:\Repositorios\SadegelStock\SadegelStock\Sadegel\SadegelBot\Exchange.cs:line 73
+[14:33:21] Connectat al servidor de Exchange de manera satisfactòria
+[14:33:25] The request failed. The remote server returned an error: (401) Unauthorized.
+[14:33:25]    at Microsoft.Exchange.WebServices.Data.ServiceRequestBase.GetEwsHttpWebResponse(IEwsHttpWebRequest request)
+   at Microsoft.Exchange.WebServices.Data.ServiceRequestBase.ValidateAndEmitRequest(IEwsHttpWebRequest& request)
+   at Microsoft.Exchange.WebServices.Data.SimpleServiceRequestBase.InternalExecute()
+   at Microsoft.Exchange.WebServices.Data.MultiResponseServiceRequest`1.Execute()
+   at Microsoft.Exchange.WebServices.Data.ExchangeService.FindItems[TItem](IEnumerable`1 parentFolderIds, SearchFilter searchFilter, String queryString, ViewBase view, Grouping groupBy, ServiceErrorHandling errorHandlingMode)
+   at Microsoft.Exchange.WebServices.Data.ExchangeService.FindItems(FolderId parentFolderId, SearchFilter searchFilter, ViewBase view)
+   at Microsoft.Exchange.WebServices.Data.ExchangeService.FindItems(WellKnownFolderName parentFolderName, SearchFilter searchFilter, ViewBase view)
+   at SadegelBot.Exchange.ProcessNewEmails() in F:\Repositorios\SadegelStock\SadegelStock\Sadegel\SadegelBot\Exchange.cs:line 73
+[14:36:39] Error al connectar al servidor de Exchange amb les credencials donades
+[14:36:39] The Autodiscover service couldn't be located.
+[14:46:28] Connectat al servidor de Exchange de manera satisfactòria
+[14:46:32] The request failed. The remote server returned an error: (401) Unauthorized.
+[14:46:32]    at Microsoft.Exchange.WebServices.Data.ServiceRequestBase.GetEwsHttpWebResponse(IEwsHttpWebRequest request)
+   at Microsoft.Exchange.WebServices.Data.ServiceRequestBase.ValidateAndEmitRequest(IEwsHttpWebRequest& request)
+   at Microsoft.Exchange.WebServices.Data.SimpleServiceRequestBase.InternalExecute()
+   at Microsoft.Exchange.WebServices.Data.MultiResponseServiceRequest`1.Execute()
+   at Microsoft.Exchange.WebServices.Data.ExchangeService.FindItems[TItem](IEnumerable`1 parentFolderIds, SearchFilter searchFilter, String queryString, ViewBase view, Grouping groupBy, ServiceErrorHandling errorHandlingMode)
+   at Microsoft.Exchange.WebServices.Data.ExchangeService.FindItems(FolderId parentFolderId, SearchFilter searchFilter, ViewBase view)
+   at Microsoft.Exchange.WebServices.Data.ExchangeService.FindItems(WellKnownFolderName parentFolderName, SearchFilter searchFilter, ViewBase view)
+   at SadegelBot.Exchange.ProcessNewEmails() in F:\Repositorios\SadegelStock\SadegelStock\Sadegel\SadegelBot\Exchange.cs:line 73
+[14:47:25] Connectat al servidor de Exchange de manera satisfactòria
+[14:47:29] Trobats: 1 correus sense llegir.

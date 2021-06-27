@@ -1,0 +1,117 @@
+[14:27:18] Unable to connect to any of the specified MySQL hosts.
+[14:27:20] [SadegelCore] Excepció al carregar COUNTRYs
+[14:27:20] Unable to connect to any of the specified MySQL hosts.
+[14:27:20]    at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Open()
+   at MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at SadegelCore.Country.LoadAll()
+[14:27:22] [SadegelCore] Excepció al carregar PRODUCTCATEGORYs
+[14:27:22] Unable to connect to any of the specified MySQL hosts.
+[14:27:22]    at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Open()
+   at MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at SadegelCore.ProductCategory.LoadAll()
+[14:27:25] [SadegelCore] Excepció al carregar PRODUCTs
+[14:27:25] Unable to connect to any of the specified MySQL hosts.
+[14:27:25]    at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Open()
+   at MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at SadegelCore.Product.LoadAll()
+[14:27:27] [SadegelCore] Excepció al carregar SHOPs
+[14:27:27] Unable to connect to any of the specified MySQL hosts.
+[14:27:27]    at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Open()
+   at MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at SadegelCore.Shop.LoadAll()
+[14:27:29] [SadegelCore] Excepció al carregar PROVIDERs
+[14:27:29] Unable to connect to any of the specified MySQL hosts.
+[14:27:29]    at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Open()
+   at MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at SadegelCore.Provider.LoadAll()
+[14:27:31] [SadegelCore] Excepció al carregar ROLEs
+[14:27:31] Unable to connect to any of the specified MySQL hosts.
+[14:27:31]    at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Open()
+   at MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at SadegelCore.Role.LoadAll()
+[14:27:37] [SadegelCore] Excepció al carregar PRODUCTs
+[14:27:37] Unable to connect to any of the specified MySQL hosts.
+[14:27:37]    at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Open()
+   at MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at SadegelCore.Product.LoadAll()
+[14:28:27] [SadegelCore] Error a l'eliminar identificador conet per a PRODUCT 4
+[14:28:27] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE identifier = 'conet'' at line 1
+[14:28:27]    at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at SadegelCore.Product.RemoveIdentifier(String Identifier)
+[14:31:47] [SadegelCore] Error a l'eliminar identificador AIGUA per a PRODUCT 1
+[14:31:47] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE identifier = 'AIGUA'' at line 1
+[14:31:47]    at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at SadegelCore.Product.RemoveIdentifier(String Identifier)
+[14:43:10] [SadegelCore] Error a l'eliminar identificador conet per a PRODUCT 4
+[14:43:10] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE identifier LIKE 'conet'' at line 1
+[14:43:10]    at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at SadegelCore.Product.RemoveIdentifier(String Identifier)
+[14:44:30] [SadegelCore] Eliminat identificador conet per a PRODUCT 4
+[14:44:52] [SadegelCore] Afegir identificador conet per a PRODUCT 4
+[15:32:49] [SadegelCore] Eliminat ingredient de PRODUCT 3
+[15:33:22] [SadegelCore] Afegir ingredient 5 per a PRODUCT 3
+[16:20:29] [SadegelCore] Actualitzat PRODUCT 4
+[16:22:58] [SadegelCore] Creat PRODUCT Croissant, TYPE: consumable, CATEGORY: SNACK
+[16:23:08] [SadegelCore] Actualitzat PRODUCT 6
+[16:23:38] [SadegelCore] Eliminat identificador Croissant per a PRODUCT 6
+[16:23:45] [SadegelCore] Afegir identificador Croissant per a PRODUCT 6

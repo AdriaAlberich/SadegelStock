@@ -1,0 +1,101 @@
+[16:16:15] Unable to connect to any of the specified MySQL hosts.
+[16:16:18] [SadegelCore] Excepció al carregar SHOPs
+[16:16:18] Unable to connect to any of the specified MySQL hosts.
+[16:16:18]    at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Open()
+   at MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at SadegelCore.GlobalSettings.Initialize()
+[16:16:20] [SadegelCore] Excepció al carregar COUNTRYs
+[16:16:20] Unable to connect to any of the specified MySQL hosts.
+[16:16:20]    at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Open()
+   at MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at SadegelCore.Country.LoadAll()
+[16:16:22] [SadegelCore] Excepció al carregar PRODUCTCATEGORYs
+[16:16:22] Unable to connect to any of the specified MySQL hosts.
+[16:16:22]    at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Open()
+   at MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at SadegelCore.ProductCategory.LoadAll()
+[16:22:31] [SadegelCore] Afegir ingredient 1 per a PRODUCT 102
+[16:23:31] [SadegelCore] Afegir ingredient 23 per a PRODUCT 102
+[16:24:42] [SadegelCore] Afegir ingredient 45 per a PRODUCT 102
+[16:25:31] [SadegelCore] Afegir ingredient 57 per a PRODUCT 102
+[16:25:39] [SadegelCore] Actualitzat PRODUCT 102
+[16:26:05] [SadegelCore] Creat PRODUCT HELADO CAFÉ, TYPE: manufactured, CATEGORY: HELADERIA
+[16:29:34] [SadegelCore] Afegir ingredient 1 per a PRODUCT 103
+[16:30:48] [SadegelCore] Afegir ingredient 29 per a PRODUCT 103
+[16:31:32] [SadegelCore] Actualitzat PRODUCT 103
+[16:32:14] [SadegelCore] Actualitzat PRODUCT 103
+[16:32:32] [SadegelCore] Creat PRODUCT HELADO TIRAMISU, TYPE: raw, CATEGORY: HELADERIA
+[16:33:23] [SadegelCore] Actualitzat PRODUCT 104
+[16:34:55] [SadegelCore] Afegir ingredient 1 per a PRODUCT 104
+[16:37:26] [SadegelCore] Afegir ingredient 26 per a PRODUCT 104
+[16:38:24] [SadegelCore] Afegir ingredient 37 per a PRODUCT 104
+[16:39:10] [SadegelCore] Afegir ingredient 40 per a PRODUCT 104
+[16:40:14] [SadegelCore] Afegir ingredient 53 per a PRODUCT 104
+[16:40:32] [SadegelCore] Actualitzat PRODUCT 104
+[16:40:54] [SadegelCore] Creat PRODUCT HELADO FERRERO, TYPE: manufactured, CATEGORY: HELADERIA
+[16:42:15] [SadegelCore] Afegir ingredient 2 per a PRODUCT 105
+[16:43:15] [SadegelCore] Afegir ingredient 20 per a PRODUCT 105
+[16:43:59] [SadegelCore] Afegir ingredient 41 per a PRODUCT 105
+[16:44:39] [SadegelCore] Afegir ingredient 42 per a PRODUCT 105
+[16:45:31] [SadegelCore] Afegir ingredient 59 per a PRODUCT 105
+[16:45:42] [SadegelCore] Actualitzat PRODUCT 105
+[16:46:05] [SadegelCore] Creat PRODUCT HELADO CHOCOLATE, TYPE: manufactured, CATEGORY: HELADERIA
+[16:47:26] [SadegelCore] Afegir ingredient 2 per a PRODUCT 106
+[16:48:30] [SadegelCore] Afegir ingredient 52 per a PRODUCT 106
+[16:49:32] [SadegelCore] Actualitzat PRODUCT 106
+[16:50:03] [SadegelCore] Creat PRODUCT HELADO CHOCO NARANJA, TYPE: manufactured, CATEGORY: HELADERIA
+[16:51:03] [SadegelCore] Afegir ingredient 3 per a PRODUCT 107
+[16:52:06] [SadegelCore] Afegir ingredient 52 per a PRODUCT 107
+[16:53:03] [SadegelCore] Afegir ingredient 81 per a PRODUCT 107
+[16:53:29] [SadegelCore] Actualitzat PRODUCT 107
+[16:54:14] [SadegelCore] Actualitzat PRODUCT 107
+[16:54:30] [SadegelCore] Creat PRODUCT HELADO MENTA CHOCO, TYPE: manufactured, CATEGORY: HELADERIA
+[16:55:07] [SadegelCore] Actualitzat PRODUCT 108
+[16:55:45] [SadegelCore] Afegir ingredient 1 per a PRODUCT 108
+[16:56:44] [SadegelCore] Afegir ingredient 46 per a PRODUCT 108
+[16:56:53] [SadegelCore] Actualitzat PRODUCT 108
+[16:56:57] [SadegelCore] Actualitzat PRODUCT 108
+[16:57:26] [SadegelCore] Creat PRODUCT HELADO MARACUYA, TYPE: manufactured, CATEGORY: HELADERIA
+[16:58:31] [SadegelCore] Afegir ingredient 4 per a PRODUCT 109
+[16:59:19] [SadegelCore] Afegir ingredient 55 per a PRODUCT 109
+[17:00:22] [SadegelCore] Afegir ingredient 70 per a PRODUCT 109
+[17:00:29] [SadegelCore] Actualitzat PRODUCT 109
+[17:00:32] [SadegelCore] Actualitzat PRODUCT 109
+[17:00:55] [SadegelCore] Creat PRODUCT HELADO SPECULOS, TYPE: manufactured, CATEGORY: HELADERIA
+[17:02:38] [SadegelCore] Afegir ingredient 1 per a PRODUCT 110
+[17:03:24] [SadegelCore] Afegir ingredient 16 per a PRODUCT 110
+[17:03:39] [SadegelCore] Eliminat ingredient de PRODUCT 110
+[17:04:31] [SadegelCore] Afegir ingredient 24 per a PRODUCT 110
+[17:05:31] [SadegelCore] Afegir ingredient 56 per a PRODUCT 110
+[17:05:47] [SadegelCore] Actualitzat PRODUCT 110
+[17:05:55] [SadegelCore] Actualitzat PRODUCT 110
+[17:06:32] [SadegelCore] Creat PRODUCT HELADO RAFAELLO, TYPE: manufactured, CATEGORY: HELADERIA
+[17:07:23] [SadegelCore] Afegir ingredient 1 per a PRODUCT 111
+[17:08:11] [SadegelCore] Afegir ingredient 16 per a PRODUCT 111
+[17:09:11] [SadegelCore] Afegir ingredient 50 per a PRODUCT 111
+[17:09:18] [SadegelCore] Actualitzat PRODUCT 111
+[17:09:38] [SadegelCore] Creat PRODUCT HELADO PLATANO XOCO, TYPE: manufactured, CATEGORY: HELADERIA
+[17:11:10] [SadegelCore] Afegir ingredient 1 per a PRODUCT 112
+[17:11:49] [SadegelCore] Afegir ingredient 4 per a PRODUCT 112
+[17:12:42] [SadegelCore] Afegir ingredient 46 per a PRODUCT 112
+[17:14:14] [SadegelCore] Afegir ingredient 61 per a PRODUCT 112
+[17:15:07] [SadegelCore] Afegir ingredient 65 per a PRODUCT 112
+[17:15:18] [SadegelCore] Actualitzat PRODUCT 112

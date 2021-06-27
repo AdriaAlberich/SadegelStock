@@ -1,0 +1,28 @@
+[16:03:13] [SadegelCore] Creat PRODUCT CHIPS, TYPE: consumable, CATEGORY: SNACKS
+[16:03:14] [EventLog] Excepció a l'insertar: Creat nou producte CHIPS stock SYSTEM SYSTEM -1 -1 0
+[16:14:06] [SadegelCore] Creat COUNTRY Portugal
+[16:14:06] [EventLog] Excepció a l'insertar: Creat nou país Portugal stock SYSTEM SYSTEM -1 -1 0
+[16:18:44] [SadegelCore] Creat COUNTRY Bolívia
+[16:18:44] [EventLog] Excepció a l'insertar: Creat nou país Bolívia stock SYSTEM SYSTEM -1 -1 0
+[16:21:37] [SadegelCore] Creat COUNTRY Guatemala
+[16:21:37] Column count doesn't match value count at row 1
+[16:21:37]    at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at SadegelCore.Logs.EventLog(String message, String type, String pcName, String userName, Int32 shopId, Int32 productId, Single quantity)
+[16:21:37] [EventLog] Excepció a l'insertar: Creat nou país Guatemala stock SYSTEM SYSTEM -1 -1 0
+[16:30:25] [SadegelCore] Creat COUNTRY Mexic
+[16:30:25] Column count doesn't match value count at row 1
+[16:30:25]    at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at SadegelCore.Logs.EventLog(String message, String type, String pcName, String userName, Int32 shopId, Int32 productId, Single quantity)
+[16:30:25] [EventLog] Excepció a l'insertar: Creat nou país Mexic stock SYSTEM SYSTEM -1 -1 0

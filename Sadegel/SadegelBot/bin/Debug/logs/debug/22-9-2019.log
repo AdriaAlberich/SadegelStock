@@ -1,0 +1,45 @@
+[15:40:23] Connectat al servidor de Exchange de manera satisfactòria
+[15:40:40] Connectat al servidor de Exchange de manera satisfactòria
+[15:40:50] Trobats: 2 correus sense llegir.
+[15:40:50] PROCESSANT NOU EMAIL: Cierre de la caja
+[15:40:50] Nom establiment: SADEGEL
+[15:40:50] TROBAT ESTABLIMENT: SADEGEL
+[15:40:50] Llegint fitxers adjunts
+[15:40:50] Descarregat adjunt: C:\Users\Pc-Com\AppData\Local\Temp\Cierres de caja.pdf
+[15:40:50] Descarregat adjunt: C:\Users\Pc-Com\AppData\Local\Temp\Cierres de caja ampliado.pdf
+[15:40:51] PROCESSANT TANCAMENTS DE CAIXA
+[15:40:51] DETECTAT DOCUMENT
+[15:40:51] PROCESSANT TEXT
+[15:40:51] Column count doesn't match value count at row 1
+[15:40:51]    at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at SadegelCore.Logs.EventLog(String message, String origin, String type, String pcName, String userName, Int32 shopId, Int32 productId, Single quantity, Int64 relatedWith)
+[15:40:51] [EventLog] Excepció a l'insertar: INICI DE TANCAMENT DE CAIXA DE SADEGEL bot shop_stock_summary SYSTEM SYSTEM 1 -1 0 -1
+[15:40:51] Restades 1 de ENTREPÀ FUET(bocadillo fuet). Establiment: SADEGEL
+[15:40:51] Column count doesn't match value count at row 1
+[15:40:51]    at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at SadegelCore.Logs.EventLog(String message, String origin, String type, String pcName, String userName, Int32 shopId, Int32 productId, Single quantity, Int64 relatedWith)
+[15:40:51] [EventLog] Excepció a l'insertar: Restades 1 de ENTREPÀ FUET(bocadillo fuet). Establiment: SADEGEL bot shop_stock_movement SYSTEM SYSTEM 1 1 -1 -1
+[15:42:58] Connectat al servidor de Exchange de manera satisfactòria
+[15:43:02] Trobats: 2 correus sense llegir.
+[15:43:02] PROCESSANT NOU EMAIL: Cierre de la caja
+[15:43:02] Nom establiment: SADEGEL
+[15:43:02] TROBAT ESTABLIMENT: SADEGEL
+[15:43:02] Llegint fitxers adjunts
+[15:43:02] Descarregat adjunt: C:\Users\Pc-Com\AppData\Local\Temp\Cierres de caja.pdf
+[15:43:03] Descarregat adjunt: C:\Users\Pc-Com\AppData\Local\Temp\Cierres de caja ampliado.pdf
+[15:43:03] PROCESSANT TANCAMENTS DE CAIXA
+[15:43:03] DETECTAT DOCUMENT
+[15:43:03] PROCESSANT TEXT
+[15:43:03] Restades 1 de ENTREPÀ FUET(bocadillo fuet). Establiment: SADEGEL

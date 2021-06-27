@@ -1,0 +1,110 @@
+[13:37:35] [SadegelCore] Creat PRODUCTCATEGORY PA
+[13:37:35] Column count doesn't match value count at row 1
+[13:37:35]    at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at SadegelCore.Logs.EventLog(String message, String type, String pcName, String userName, Int32 shopId, Int32 productId, Single quantity)
+[13:37:35] [EventLog] Excepció a l'insertar: Creada nova categoria PA stock SYSTEM SYSTEM -1 -1 0
+[13:38:17] [SadegelCore] Creat PRODUCTCATEGORY BASE PASTISSERIA
+[13:38:17] Column count doesn't match value count at row 1
+[13:38:17]    at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at SadegelCore.Logs.EventLog(String message, String type, String pcName, String userName, Int32 shopId, Int32 productId, Single quantity)
+[13:38:17] [EventLog] Excepció a l'insertar: Creada nova categoria BASE PASTISSERIA stock SYSTEM SYSTEM -1 -1 0
+[13:38:26] [SadegelCore] Creat PRODUCTCATEGORY INGREDIENTS GELATS
+[13:38:26] Column count doesn't match value count at row 1
+[13:38:26]    at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at SadegelCore.Logs.EventLog(String message, String type, String pcName, String userName, Int32 shopId, Int32 productId, Single quantity)
+[13:38:26] [EventLog] Excepció a l'insertar: Creada nova categoria INGREDIENTS GELATS stock SYSTEM SYSTEM -1 -1 0
+[13:39:25] [SadegelCore] Creat PRODUCT BASE GELAT, TYPE: raw, CATEGORY: INGREDIENTS GELATS
+[13:39:26] Column count doesn't match value count at row 1
+[13:39:26]    at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at SadegelCore.Logs.EventLog(String message, String type, String pcName, String userName, Int32 shopId, Int32 productId, Single quantity)
+[13:39:26] [EventLog] Excepció a l'insertar: Creat nou producte BASE GELAT stock SYSTEM SYSTEM -1 -1 0
+[13:39:43] [SadegelCore] Creat PRODUCT BAGUETTE, TYPE: raw, CATEGORY: BASE PASTISSERIA
+[13:39:43] Column count doesn't match value count at row 1
+[13:39:43]    at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at SadegelCore.Logs.EventLog(String message, String type, String pcName, String userName, Int32 shopId, Int32 productId, Single quantity)
+[13:39:43] [EventLog] Excepció a l'insertar: Creat nou producte BAGUETTE stock SYSTEM SYSTEM -1 -1 0
+[13:40:15] [SadegelCore] Creat PRODUCT FARINA, TYPE: raw, CATEGORY: BASE PASTISSERIA
+[13:40:16] Column count doesn't match value count at row 1
+[13:40:16]    at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at SadegelCore.Logs.EventLog(String message, String type, String pcName, String userName, Int32 shopId, Int32 productId, Single quantity)
+[13:40:16] [EventLog] Excepció a l'insertar: Creat nou producte FARINA stock SYSTEM SYSTEM -1 -1 0
+[13:41:08] [SadegelCore] Creat PRODUCT GELAT ARTESÀ, TYPE: manufactured, CATEGORY: GELATS
+[13:41:09] Column count doesn't match value count at row 1
+[13:41:09]    at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at SadegelCore.Logs.EventLog(String message, String type, String pcName, String userName, Int32 shopId, Int32 productId, Single quantity)
+[13:41:09] [EventLog] Excepció a l'insertar: Creat nou producte GELAT ARTESÀ stock SYSTEM SYSTEM -1 -1 0
+[13:41:36] [SadegelCore] Creat PRODUCT MANGO A DAUS, TYPE: raw, CATEGORY: BEGUDES
+[13:41:37] Column count doesn't match value count at row 1
+[13:41:37]    at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at SadegelCore.Logs.EventLog(String message, String type, String pcName, String userName, Int32 shopId, Int32 productId, Single quantity)
+[13:41:37] [EventLog] Excepció a l'insertar: Creat nou producte MANGO A DAUS stock SYSTEM SYSTEM -1 -1 0
+[13:44:28] [SadegelCore] Actualitzat PRODUCT 15
+[13:44:30] Column count doesn't match value count at row 1
+[13:44:30]    at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at SadegelCore.Logs.EventLog(String message, String type, String pcName, String userName, Int32 shopId, Int32 productId, Single quantity)
+[13:44:30] [EventLog] Excepció a l'insertar: Modificat producte GELAT ARTESÀ stock SYSTEM SYSTEM -1 -1 0
+[13:44:52] [SadegelCore] Actualitzat PRODUCT 15
+[13:44:53] Column count doesn't match value count at row 1
+[13:44:53]    at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at SadegelCore.Logs.EventLog(String message, String type, String pcName, String userName, Int32 shopId, Int32 productId, Single quantity)
+[13:44:53] [EventLog] Excepció a l'insertar: Modificat producte GELAT ARTESÀ stock SYSTEM SYSTEM -1 -1 0

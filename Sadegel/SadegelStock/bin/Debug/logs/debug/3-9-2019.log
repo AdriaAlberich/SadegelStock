@@ -1,0 +1,43 @@
+[14:41:26] [SadegelCore] Creat PROVIDER Cocacola, ID: -
+[14:41:26] Column count doesn't match value count at row 1
+[14:41:26]    at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at SadegelCore.Logs.EventLog(String message, String type, String pcName, String userName, Int32 shopId, Int32 productId, Single quantity)
+[14:41:26] [EventLog] Excepció a l'insertar: Afegit proveïdor Cocacola stock SYSTEM SYSTEM -1 -1 0
+[14:50:29] [SadegelCore] Excepció al crear PROVIDER Alcampo
+[14:50:29] Duplicate entry '-' for key 'id'
+[14:50:29]    at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at SadegelCore.Provider.Create(String Name, String Id, String Email, String Phone, Address Address, Country Country)
+[14:50:38] [SadegelCore] Excepció al crear PROVIDER Alcampo
+[14:50:38] Duplicate entry '-' for key 'id'
+[14:50:38]    at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at SadegelCore.Provider.Create(String Name, String Id, String Email, String Phone, Address Address, Country Country)
+[14:51:08] [SadegelCore] Creat PROVIDER Alcampo, ID: 12212122
+[14:51:08] Column count doesn't match value count at row 1
+[14:51:08]    at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at SadegelCore.Logs.EventLog(String message, String type, String pcName, String userName, Int32 shopId, Int32 productId, Single quantity)
+[14:51:08] [EventLog] Excepció a l'insertar: Afegit proveïdor Alcampo stock SYSTEM SYSTEM -1 -1 0
+[14:59:33] [SadegelCore] Creat PROVIDER Proveïdor de prova 1, ID: 44444444

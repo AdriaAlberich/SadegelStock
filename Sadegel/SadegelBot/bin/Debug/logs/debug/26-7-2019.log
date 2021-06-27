@@ -1,0 +1,37 @@
+[14:41:28] Connectat al servidor de Exchange de manera satisfactòria
+[14:45:31] [SadegelCore] Creat PRODUCTCATEGORY GELATS
+[14:46:30] [SadegelCore] Creat PRODUCT CON PETIT 1B, TYPE: consumable, CATEGORY: GELATS
+[14:48:20] [SadegelCore] Creat PRODUCTCATEGORY ACCESSORIS
+[14:50:50] [SadegelCore] Creat PRODUCT CON GALETA, TYPE: raw, CATEGORY: ACCESSORIS
+[14:52:32] [SadegelCore] Creat PRODUCT GELAT ARTESA, TYPE: manufactured, CATEGORY: GELATS
+[14:55:38] [SadegelCore] Afegir ingredient 4 per a PRODUCT 3
+[14:56:32] [SadegelCore] Afegir ingredient 5 per a PRODUCT 3
+[14:59:54] [SadegelCore] Excepció a l'actualitzar SHOP INVENTORY 2
+[14:59:54] Parameter '@ShopId' has already been defined.
+[14:59:54]    at MySql.Data.MySqlClient.MySqlParameterCollection.InternalAdd(MySqlParameter value, Int32 index)
+   at MySql.Data.MySqlClient.MySqlParameterCollection.AddWithValue(String parameterName, Object value)
+   at SadegelCore.ShopInventory.Update()
+[15:02:35] Connectat al servidor de Exchange de manera satisfactòria
+[15:07:06] Trobats: 5 correus sense llegir.
+[15:07:06] PROCESSANT NOU EMAIL: Cierre de caja 1 usuario test
+[15:07:06] Nom establiment: SADEGEL
+[15:07:06] TROBAT ESTABLIMENT: SADEGEL
+[15:07:06] Llegint fitxers adjunts
+[15:07:06] Descarregat adjunt: C:\Users\Pc-Com\AppData\Local\Temp\Cierres de caja.pdf
+[15:07:06] Descarregat adjunt: C:\Users\Pc-Com\AppData\Local\Temp\Cierres de caja ampliado.pdf
+[15:07:07] PROCESSANT TANCAMENTS DE CAIXA
+[15:07:07] DETECTAT DOCUMENT
+[15:07:07] PROCESSANT TEXT
+[15:07:07] Restades 1 de CHIPS(CHIPS), queden 98
+[15:09:35] Connectat al servidor de Exchange de manera satisfactòria
+[15:09:53] Trobats: 5 correus sense llegir.
+[15:09:53] PROCESSANT NOU EMAIL: Cierre de caja 1 usuario test
+[15:09:53] Nom establiment: SADEGEL
+[15:09:53] TROBAT ESTABLIMENT: SADEGEL
+[15:09:53] Llegint fitxers adjunts
+[15:09:53] Descarregat adjunt: C:\Users\Pc-Com\AppData\Local\Temp\Cierres de caja.pdf
+[15:09:54] Descarregat adjunt: C:\Users\Pc-Com\AppData\Local\Temp\Cierres de caja ampliado.pdf
+[15:09:54] PROCESSANT TANCAMENTS DE CAIXA
+[15:09:54] DETECTAT DOCUMENT
+[15:09:54] PROCESSANT TEXT
+[15:09:54] Restades 1 de CHIPS(CHIPS), queden 97

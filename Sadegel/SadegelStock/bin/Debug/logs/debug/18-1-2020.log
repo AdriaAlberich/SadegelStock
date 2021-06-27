@@ -1,0 +1,507 @@
+[15:24:25] FUNCTION sadegel_stock.TOP does not exist
+[15:24:25]    at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   at SadegelCore.Logs.GetEventLog(Int32 Last, String Origin, String Type, UInt32 ShopId, UInt32 ProductId, Int32 RelatedWith, Nullable`1 Since, Nullable`1 To)
+[15:24:25] FUNCTION sadegel_stock.TOP does not exist
+[15:24:25]    at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   at SadegelCore.Logs.GetEventLog(Int32 Last, String Origin, String Type, UInt32 ShopId, UInt32 ProductId, Int32 RelatedWith, Nullable`1 Since, Nullable`1 To)
+[15:25:24] FUNCTION sadegel_stock.TOP does not exist
+[15:25:24]    at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   at SadegelCore.Logs.GetEventLog(Int32 Last, String Origin, String Type, UInt32 ShopId, UInt32 ProductId, Int32 RelatedWith, Nullable`1 Since, Nullable`1 To)
+[15:25:24] FUNCTION sadegel_stock.TOP does not exist
+[15:25:24]    at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   at SadegelCore.Logs.GetEventLog(Int32 Last, String Origin, String Type, UInt32 ShopId, UInt32 ProductId, Int32 RelatedWith, Nullable`1 Since, Nullable`1 To)
+[15:26:24] FUNCTION sadegel_stock.TOP does not exist
+[15:26:24]    at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   at SadegelCore.Logs.GetEventLog(Int32 Last, String Origin, String Type, UInt32 ShopId, UInt32 ProductId, Int32 RelatedWith, Nullable`1 Since, Nullable`1 To)
+[15:26:24] FUNCTION sadegel_stock.TOP does not exist
+[15:26:24]    at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   at SadegelCore.Logs.GetEventLog(Int32 Last, String Origin, String Type, UInt32 ShopId, UInt32 ProductId, Int32 RelatedWith, Nullable`1 Since, Nullable`1 To)
+[15:27:24] FUNCTION sadegel_stock.TOP does not exist
+[15:27:24]    at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   at SadegelCore.Logs.GetEventLog(Int32 Last, String Origin, String Type, UInt32 ShopId, UInt32 ProductId, Int32 RelatedWith, Nullable`1 Since, Nullable`1 To)
+[15:27:24] FUNCTION sadegel_stock.TOP does not exist
+[15:27:24]    at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   at SadegelCore.Logs.GetEventLog(Int32 Last, String Origin, String Type, UInt32 ShopId, UInt32 ProductId, Int32 RelatedWith, Nullable`1 Since, Nullable`1 To)
+[15:28:24] FUNCTION sadegel_stock.TOP does not exist
+[15:28:24]    at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   at SadegelCore.Logs.GetEventLog(Int32 Last, String Origin, String Type, UInt32 ShopId, UInt32 ProductId, Int32 RelatedWith, Nullable`1 Since, Nullable`1 To)
+[15:28:24] FUNCTION sadegel_stock.TOP does not exist
+[15:28:24]    at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   at SadegelCore.Logs.GetEventLog(Int32 Last, String Origin, String Type, UInt32 ShopId, UInt32 ProductId, Int32 RelatedWith, Nullable`1 Since, Nullable`1 To)
+[15:42:19] FUNCTION sadegel_stock.TOP does not exist
+[15:42:19]    at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   at SadegelCore.Logs.GetEventLog(Int32 Last, String Origin, String Type, UInt32 ShopId, UInt32 ProductId, Int32 RelatedWith, Nullable`1 Since, Nullable`1 To)
+[15:42:19] FUNCTION sadegel_stock.TOP does not exist
+[15:42:19]    at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   at SadegelCore.Logs.GetEventLog(Int32 Last, String Origin, String Type, UInt32 ShopId, UInt32 ProductId, Int32 RelatedWith, Nullable`1 Since, Nullable`1 To)
+[15:43:18] FUNCTION sadegel_stock.TOP does not exist
+[15:43:18]    at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   at SadegelCore.Logs.GetEventLog(Int32 Last, String Origin, String Type, UInt32 ShopId, UInt32 ProductId, Int32 RelatedWith, Nullable`1 Since, Nullable`1 To)
+[15:43:19] FUNCTION sadegel_stock.TOP does not exist
+[15:43:19]    at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   at SadegelCore.Logs.GetEventLog(Int32 Last, String Origin, String Type, UInt32 ShopId, UInt32 ProductId, Int32 RelatedWith, Nullable`1 Since, Nullable`1 To)
+[15:44:18] FUNCTION sadegel_stock.TOP does not exist
+[15:44:18]    at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   at SadegelCore.Logs.GetEventLog(Int32 Last, String Origin, String Type, UInt32 ShopId, UInt32 ProductId, Int32 RelatedWith, Nullable`1 Since, Nullable`1 To)
+[15:44:19] FUNCTION sadegel_stock.TOP does not exist
+[15:44:19]    at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   at SadegelCore.Logs.GetEventLog(Int32 Last, String Origin, String Type, UInt32 ShopId, UInt32 ProductId, Int32 RelatedWith, Nullable`1 Since, Nullable`1 To)
+[15:47:20] FUNCTION sadegel_stock.TOP does not exist
+[15:47:20]    at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   at SadegelCore.Logs.GetEventLog(Int32 Last, String Origin, String Type, UInt32 ShopId, UInt32 ProductId, Int32 RelatedWith, Nullable`1 Since, Nullable`1 To)
+[15:47:20] FUNCTION sadegel_stock.TOP does not exist
+[15:47:20]    at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   at SadegelCore.Logs.GetEventLog(Int32 Last, String Origin, String Type, UInt32 ShopId, UInt32 ProductId, Int32 RelatedWith, Nullable`1 Since, Nullable`1 To)
+[16:11:29] FUNCTION sadegel_stock.TOP does not exist
+[16:11:29]    at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   at SadegelCore.Logs.GetEventLog(Int32 Last, String Origin, String Type, UInt32 ShopId, UInt32 ProductId, Int32 RelatedWith, Nullable`1 Since, Nullable`1 To)
+[16:11:29] FUNCTION sadegel_stock.TOP does not exist
+[16:11:29]    at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   at SadegelCore.Logs.GetEventLog(Int32 Last, String Origin, String Type, UInt32 ShopId, UInt32 ProductId, Int32 RelatedWith, Nullable`1 Since, Nullable`1 To)
+[16:12:29] FUNCTION sadegel_stock.TOP does not exist
+[16:12:29]    at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   at SadegelCore.Logs.GetEventLog(Int32 Last, String Origin, String Type, UInt32 ShopId, UInt32 ProductId, Int32 RelatedWith, Nullable`1 Since, Nullable`1 To)
+[16:12:29] FUNCTION sadegel_stock.TOP does not exist
+[16:12:29]    at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   at SadegelCore.Logs.GetEventLog(Int32 Last, String Origin, String Type, UInt32 ShopId, UInt32 ProductId, Int32 RelatedWith, Nullable`1 Since, Nullable`1 To)
+[16:12:34] [SadegelCore] Creat SHOP GELATIAMO BARCELONA CANUDA, TYPE: owned, TPV: Techniweb
+[16:13:29] FUNCTION sadegel_stock.TOP does not exist
+[16:13:29]    at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   at SadegelCore.Logs.GetEventLog(Int32 Last, String Origin, String Type, UInt32 ShopId, UInt32 ProductId, Int32 RelatedWith, Nullable`1 Since, Nullable`1 To)
+[16:13:29] FUNCTION sadegel_stock.TOP does not exist
+[16:13:29]    at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   at SadegelCore.Logs.GetEventLog(Int32 Last, String Origin, String Type, UInt32 ShopId, UInt32 ProductId, Int32 RelatedWith, Nullable`1 Since, Nullable`1 To)
+[16:13:32] [SadegelCore] Creat PRODUCTCATEGORY HELADERIA
+[16:14:29] FUNCTION sadegel_stock.TOP does not exist
+[16:14:29]    at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   at SadegelCore.Logs.GetEventLog(Int32 Last, String Origin, String Type, UInt32 ShopId, UInt32 ProductId, Int32 RelatedWith, Nullable`1 Since, Nullable`1 To)
+[16:14:29] FUNCTION sadegel_stock.TOP does not exist
+[16:14:29]    at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   at SadegelCore.Logs.GetEventLog(Int32 Last, String Origin, String Type, UInt32 ShopId, UInt32 ProductId, Int32 RelatedWith, Nullable`1 Since, Nullable`1 To)
+[16:15:29] FUNCTION sadegel_stock.TOP does not exist
+[16:15:29]    at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   at SadegelCore.Logs.GetEventLog(Int32 Last, String Origin, String Type, UInt32 ShopId, UInt32 ProductId, Int32 RelatedWith, Nullable`1 Since, Nullable`1 To)
+[16:15:29] FUNCTION sadegel_stock.TOP does not exist
+[16:15:29]    at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   at SadegelCore.Logs.GetEventLog(Int32 Last, String Origin, String Type, UInt32 ShopId, UInt32 ProductId, Int32 RelatedWith, Nullable`1 Since, Nullable`1 To)
+[16:31:46] FUNCTION sadegel_stock.TOP does not exist
+[16:31:46]    at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   at SadegelCore.Logs.GetEventLog(Int32 Last, String Origin, String Type, UInt32 ShopId, UInt32 ProductId, Int32 RelatedWith, Nullable`1 Since, Nullable`1 To)
+[16:31:46] FUNCTION sadegel_stock.TOP does not exist
+[16:31:46]    at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   at SadegelCore.Logs.GetEventLog(Int32 Last, String Origin, String Type, UInt32 ShopId, UInt32 ProductId, Int32 RelatedWith, Nullable`1 Since, Nullable`1 To)
+[16:32:45] FUNCTION sadegel_stock.TOP does not exist
+[16:32:45]    at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   at SadegelCore.Logs.GetEventLog(Int32 Last, String Origin, String Type, UInt32 ShopId, UInt32 ProductId, Int32 RelatedWith, Nullable`1 Since, Nullable`1 To)
+[16:32:46] FUNCTION sadegel_stock.TOP does not exist
+[16:32:46]    at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   at SadegelCore.Logs.GetEventLog(Int32 Last, String Origin, String Type, UInt32 ShopId, UInt32 ProductId, Int32 RelatedWith, Nullable`1 Since, Nullable`1 To)
+[16:33:45] FUNCTION sadegel_stock.TOP does not exist
+[16:33:45]    at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   at SadegelCore.Logs.GetEventLog(Int32 Last, String Origin, String Type, UInt32 ShopId, UInt32 ProductId, Int32 RelatedWith, Nullable`1 Since, Nullable`1 To)
+[16:33:46] FUNCTION sadegel_stock.TOP does not exist
+[16:33:46]    at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   at SadegelCore.Logs.GetEventLog(Int32 Last, String Origin, String Type, UInt32 ShopId, UInt32 ProductId, Int32 RelatedWith, Nullable`1 Since, Nullable`1 To)
+[16:34:45] FUNCTION sadegel_stock.TOP does not exist
+[16:34:45]    at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   at SadegelCore.Logs.GetEventLog(Int32 Last, String Origin, String Type, UInt32 ShopId, UInt32 ProductId, Int32 RelatedWith, Nullable`1 Since, Nullable`1 To)
+[16:34:46] FUNCTION sadegel_stock.TOP does not exist
+[16:34:46]    at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   at SadegelCore.Logs.GetEventLog(Int32 Last, String Origin, String Type, UInt32 ShopId, UInt32 ProductId, Int32 RelatedWith, Nullable`1 Since, Nullable`1 To)
+[16:35:45] FUNCTION sadegel_stock.TOP does not exist
+[16:35:45]    at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   at SadegelCore.Logs.GetEventLog(Int32 Last, String Origin, String Type, UInt32 ShopId, UInt32 ProductId, Int32 RelatedWith, Nullable`1 Since, Nullable`1 To)
+[16:35:46] FUNCTION sadegel_stock.TOP does not exist
+[16:35:46]    at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   at SadegelCore.Logs.GetEventLog(Int32 Last, String Origin, String Type, UInt32 ShopId, UInt32 ProductId, Int32 RelatedWith, Nullable`1 Since, Nullable`1 To)
+[16:35:49] [SadegelCore] Creat PRODUCT BASE GELATIAMO PANNA B&B X 11 KG, TYPE: raw, CATEGORY: HELADERIA
+[16:36:39] [SadegelCore] Excepció al crear PRODUCT BASE GELATIAMO CHOCOLATE B&B 5,5 KG raw
+[16:36:39] Data too long for column 'productName' at row 1
+[16:36:39]    at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at SadegelCore.Product.Create(String Name, String Type, Single Weight, String BaseUnit, ProductCategory Category, Boolean IsIcecream, String MainIdentifier)
+[16:36:43] [SadegelCore] Excepció al crear PRODUCT BASE GELATIAMO CHOCOLATE B&B 5,5 KG raw
+[16:36:43] Data too long for column 'productName' at row 1
+[16:36:43]    at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at SadegelCore.Product.Create(String Name, String Type, Single Weight, String BaseUnit, ProductCategory Category, Boolean IsIcecream, String MainIdentifier)
+[16:36:45] FUNCTION sadegel_stock.TOP does not exist
+[16:36:45]    at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   at SadegelCore.Logs.GetEventLog(Int32 Last, String Origin, String Type, UInt32 ShopId, UInt32 ProductId, Int32 RelatedWith, Nullable`1 Since, Nullable`1 To)
+[16:36:45] FUNCTION sadegel_stock.TOP does not exist
+[16:36:45]    at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   at SadegelCore.Logs.GetEventLog(Int32 Last, String Origin, String Type, UInt32 ShopId, UInt32 ProductId, Int32 RelatedWith, Nullable`1 Since, Nullable`1 To)
+[16:37:45] FUNCTION sadegel_stock.TOP does not exist
+[16:37:45]    at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   at SadegelCore.Logs.GetEventLog(Int32 Last, String Origin, String Type, UInt32 ShopId, UInt32 ProductId, Int32 RelatedWith, Nullable`1 Since, Nullable`1 To)
+[16:37:45] FUNCTION sadegel_stock.TOP does not exist
+[16:37:46]    at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   at SadegelCore.Logs.GetEventLog(Int32 Last, String Origin, String Type, UInt32 ShopId, UInt32 ProductId, Int32 RelatedWith, Nullable`1 Since, Nullable`1 To)
+[16:49:31] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '10 FROM SADEGEL_STOCK_EVENTLOG WHERE origin = 'bot'' at line 1
+[16:49:31]    at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   at SadegelCore.Logs.GetEventLog(Int32 Last, String Origin, String Type, UInt32 ShopId, UInt32 ProductId, Int32 RelatedWith, Nullable`1 Since, Nullable`1 To)
+[16:49:31] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '10 FROM SADEGEL_STOCK_EVENTLOG WHERE origin = 'stock'' at line 1
+[16:49:31]    at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   at SadegelCore.Logs.GetEventLog(Int32 Last, String Origin, String Type, UInt32 ShopId, UInt32 ProductId, Int32 RelatedWith, Nullable`1 Since, Nullable`1 To)
+[16:52:09] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '10 FROM SADEGEL_STOCK_EVENTLOG WHERE origin = 'bot'' at line 1
+[16:52:09]    at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   at SadegelCore.Logs.GetEventLog(Int32 Last, String Origin, String Type, UInt32 ShopId, UInt32 ProductId, Int32 RelatedWith, Nullable`1 Since, Nullable`1 To)
+[16:52:09] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '10 FROM SADEGEL_STOCK_EVENTLOG WHERE origin = 'stock'' at line 1
+[16:52:09]    at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   at SadegelCore.Logs.GetEventLog(Int32 Last, String Origin, String Type, UInt32 ShopId, UInt32 ProductId, Int32 RelatedWith, Nullable`1 Since, Nullable`1 To)
+[16:52:35] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'LIMIT10' at line 1
+[16:52:35]    at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   at SadegelCore.Logs.GetEventLog(Int32 Last, String Origin, String Type, UInt32 ShopId, UInt32 ProductId, Int32 RelatedWith, Nullable`1 Since, Nullable`1 To)
+[16:52:35] You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'LIMIT10' at line 1
+[16:52:35]    at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   at SadegelCore.Logs.GetEventLog(Int32 Last, String Origin, String Type, UInt32 ShopId, UInt32 ProductId, Int32 RelatedWith, Nullable`1 Since, Nullable`1 To)
+[17:00:26] [SadegelCore] Creat PRODUCT BASE GELATIAMO CHOCOLATE B&B 5,5 KG, TYPE: raw, CATEGORY: HELADERIA
+[17:00:40] [SadegelCore] Actualitzat PRODUCT 2
+[17:00:57] [SadegelCore] Actualitzat PRODUCT 2
+[17:01:19] [SadegelCore] Actualitzat PRODUCT 2
+[17:07:02] [SadegelCore] Actualitzat PRODUCT 2
+[17:07:15] [SadegelCore] Actualitzat PRODUCT 2
+[17:08:02] [SadegelCore] Creat PRODUCT BASE FONDENTE GELATIAMO CJ X 10 B X 1.65 KG, TYPE: raw, CATEGORY: HELADERIA
+[17:08:35] [SadegelCore] Creat PRODUCT FRUTTA CREMOSA COMPLETA GELATIAMO CJ X 17 BL X 0,95 KG, TYPE: raw, CATEGORY: HELADERIA
+[17:10:30] [SadegelCore] Creat PRODUCT MIX CIOCCOLATO BIANCO GELATIAMO CJ X 10 BL X 1,2 KG, TYPE: raw, CATEGORY: HELADERIA
+[17:10:53] [SadegelCore] Creat PRODUCT MIX LIMONE GELATIAMO BL X 1,25 KG CJ X 10 BL, TYPE: raw, CATEGORY: HELADERIA
+[17:11:22] [SadegelCore] Creat PRODUCT SPEEDY NATURE MATCHA BL X 1,4 KG CJ X 8 BL, TYPE: raw, CATEGORY: HELADERIA
+[17:11:57] [SadegelCore] Creat PRODUCT PASTA DE CACAHUETE TR X 5 KG, TYPE: raw, CATEGORY: HELADERIA
+[17:12:21] [SadegelCore] Creat PRODUCT GALLETA MINI OREO, LU, CAJA 4 BOLSITAS - 160 g, TYPE: raw, CATEGORY: HELADERIA
+[17:12:40] [SadegelCore] Creat PRODUCT PASTA MERENGADA TR X 3 KG, TYPE: raw, CATEGORY: HELADERIA
+[17:13:05] [SadegelCore] Creat PRODUCT BLANDO LIQUIDO GRANULADO"ESPECIAL" CALIDAD SUPREMA TR X 6 KG, TYPE: raw, CATEGORY: HELADERIA
+[17:13:25] [SadegelCore] Creat PRODUCT CARAMELLO TR X 1,4 KG, TYPE: raw, CATEGORY: HELADERIA
+[17:14:02] [SadegelCore] Creat PRODUCT GALLETA CACAO RELLENA CREMA, SELECTA, CAJA 5 BOLSITAS - 220, TYPE: raw, CATEGORY: HELADERIA
+[17:14:21] [SadegelCore] Creat PRODUCT NOCCIOLATA TR X 6 KG, TYPE: raw, CATEGORY: HELADERIA
+[17:15:32] [SadegelCore] Creat PRODUCT XXX***PASTA BISCOTTO TR X 3,5 KG, TYPE: raw, CATEGORY: HELADERIA
+[17:15:53] [SadegelCore] Creat PRODUCT PASTA COCCO GELATIAMO TR X 3 KG, TYPE: raw, CATEGORY: HELADERIA
+[17:16:14] [SadegelCore] Creat PRODUCT PASTA DE CHICLE BT X 1,5 KG, TYPE: raw, CATEGORY: HELADERIA
+[17:16:31] [SadegelCore] Creat PRODUCT PASTA DULCE DE LECHE X 7 KG, TYPE: raw, CATEGORY: HELADERIA
+[17:16:51] [SadegelCore] Creat PRODUCT PASTA MASCARPONE GELATIAMO BL X 1 KG, TYPE: raw, CATEGORY: HELADERIA
+[17:17:10] [SadegelCore] Creat PRODUCT PASTA NOCCIOLA GELATIAMO TR X 2,5 KG, TYPE: raw, CATEGORY: HELADERIA
+[17:18:06] [SadegelCore] Creat PRODUCT PASTA SULTANO D'ORO (MALAGA) TR X 3,5 KG, TYPE: raw, CATEGORY: HELADERIA
+[17:18:28] [SadegelCore] Creat PRODUCT PASTA VANIGLIA GELATIAMO TR X 3 KG, TYPE: raw, CATEGORY: HELADERIA
+[17:19:29] [SadegelCore] Creat PRODUCT PASTA PISTACHO 70  GELATIAMO TR X 3 KG, TYPE: raw, CATEGORY: HELADERIA
+[17:19:51] [SadegelCore] Creat PRODUCT PASTA BISCOTTO SPECULOOS TR X 3 KG, TYPE: raw, CATEGORY: HELADERIA
+[17:23:38] [SadegelCore] Creat PRODUCT PASTA MACADAMIA TR X 3 KG, TYPE: raw, CATEGORY: HELADERIA
+[17:23:58] [SadegelCore] Creat PRODUCT PASTA TIRAMISÙ SPECIAL TR X 3 KG, TYPE: raw, CATEGORY: HELADERIA
+[17:24:18] [SadegelCore] Creat PRODUCT YOGURT TIPO GRECO 100  BL X 1 KG, TYPE: raw, CATEGORY: HELADERIA
+[17:24:39] [SadegelCore] Creat PRODUCT PASTA CREMA CATALANA TR X 3 KG, TYPE: raw, CATEGORY: HELADERIA
+[17:24:58] [SadegelCore] Creat PRODUCT PASTA CAFFE / ARABIC COLOM TR X 3 KG, TYPE: raw, CATEGORY: HELADERIA
+[17:25:23] [SadegelCore] Creat PRODUCT GRECOGURT GELATIAMO BL X 1,5 KG CJ X 10 BL, TYPE: raw, CATEGORY: HELADERIA
+[17:25:47] [SadegelCore] Creat PRODUCT PASTA BUBBLE GUM BLU GELATIAMO, TYPE: raw, CATEGORY: HELADERIA
+[17:26:04] [SadegelCore] Creat PRODUCT PASTA IRISH CREAM GELATIAMO, TYPE: raw, CATEGORY: HELADERIA
+[17:26:24] [SadegelCore] Creat PRODUCT PASTA ZABAJONE AL VINO "ANTICA RICETTA MARSALESE" GELATIAMO, TYPE: raw, CATEGORY: HELADERIA
+[17:26:50] [SadegelCore] Creat PRODUCT PASTA MANDARINO TARDIVO CIACULLI GELATIAMO, TYPE: raw, CATEGORY: HELADERIA
+[17:27:10] [SadegelCore] Creat PRODUCT CROCANTI DE ALMENDRA BL X 1KG, TYPE: raw, CATEGORY: HELADERIA
+[17:27:27] [SadegelCore] Creat PRODUCT VAINILLA RAMA, HACENDADO, 2u, TYPE: raw, CATEGORY: HELADERIA
+[17:27:45] [SadegelCore] Creat PRODUCT BIZCOCHO SOLETILLA INDUSTRIAL, HACENDADO, PAQUETE 300 g, TYPE: raw, CATEGORY: HELADERIA
+[17:28:15] [SadegelCore] Creat PRODUCT CANELA RAMA ( TAPÓN MARRON), HACENDADO, TARRO 18 g, TYPE: raw, CATEGORY: HELADERIA
+[17:28:42] [SadegelCore] Creat PRODUCT AVELLANA TOSTADA, HACENDADO, PAQUETE 200g, TYPE: raw, CATEGORY: HELADERIA
+[17:28:58] [SadegelCore] Creat PRODUCT CACAO NOBLESSE BL X 1 KG, TYPE: raw, CATEGORY: HELADERIA
+[17:29:16] [SadegelCore] Creat PRODUCT CREMINA TR X 5,5 KG, TYPE: raw, CATEGORY: HELADERIA
+[17:29:32] [SadegelCore] Creat PRODUCT DECOR GOLD BT X 1,5 KG, TYPE: raw, CATEGORY: HELADERIA
+[17:29:56] [SadegelCore] Creat PRODUCT IVORY COAST CHIPS DARK - COB. CHOCO NEGRO BL X 2,5 KG, TYPE: raw, CATEGORY: HELADERIA
+[17:30:14] [SadegelCore] Creat PRODUCT OVASIL BL X 600 GR  (MERENGUE LEMON PIE), TYPE: raw, CATEGORY: HELADERIA
+[17:30:29] [SadegelCore] Creat PRODUCT PISTACHO, HACENDADO, PAQUETE 300g, TYPE: raw, CATEGORY: HELADERIA
+[17:30:44] [SadegelCore] Creat PRODUCT STRACCIATELLA GELATIAMO BT X 1 KG, TYPE: raw, CATEGORY: HELADERIA
+[17:31:01] [SadegelCore] Creat PRODUCT VARIEGATURA FRUTTI DI BOSCO TR X 1,4 KG, TYPE: raw, CATEGORY: HELADERIA
+[17:31:15] [SadegelCore] Creat PRODUCT VETEADO GRANADA TR X 2 KG, TYPE: raw, CATEGORY: HELADERIA

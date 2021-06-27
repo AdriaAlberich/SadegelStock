@@ -1,0 +1,143 @@
+[14:26:45] [SadegelCore] Excepció al crear PROVIDER Cocacola
+[14:26:45] Fatal error encountered during command execution.
+[14:26:45]    at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at SadegelCore.Provider.Create(String Name, String Id, String Email, String Phone, Address Address, Country Country)
+[14:43:53] [SadegelCore] Excepció al crear PROVIDER Pepet
+[14:43:59] Fatal error encountered during command execution.
+[14:44:02]    at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at SadegelCore.Provider.Create(String Name, String Id, String Email, String Phone, Address Address, Country Country)
+[14:52:41] [SadegelCore] Excepció al crear PROVIDER aaaaaa
+[14:52:41] Fatal error encountered during command execution.
+[14:52:41]    at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at SadegelCore.Provider.Create(String Name, String Id, String Email, String Phone, Address Address, Country Country)
+[14:58:24] [SadegelCore] Excepció al crear PROVIDER aaaaaaaaaa
+[14:58:24] Fatal error encountered during command execution.
+[14:58:24]    at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at SadegelCore.Provider.Create(String Name, String Id, String Email, String Phone, Address Address, Country Country)
+[15:01:44] [SadegelCore] Creat COUNTRY Mexic
+[15:11:44] [SadegelCore] Creat PROVIDER Cocacola, ID: 444444444B
+[15:12:44] [SadegelCore] Actualitzat PROVIDER Cocacola
+[15:13:22] [SadegelCore] Eliminat PROVIDER Cocacola
+[15:25:19] [SadegelCore] Excepció al carregar PRODUCTs
+[15:25:19] Table 'sadegel_stock.sadegel_stock_product' doesn't exist
+[15:25:19]    at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   at SadegelCore.Product.LoadAll()
+[15:25:19] [SadegelCore] Excepció al carregar PROVIDERs
+[15:25:19] Table 'sadegel_stock.sadegel_stock_provider' doesn't exist
+[15:25:19]    at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   at SadegelCore.Provider.LoadAll()
+[15:25:19] [SadegelCore] Excepció al carregar ROLEs
+[15:25:19] Table 'sadegel_stock.sadegel_stock_role' doesn't exist
+[15:25:19]    at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   at SadegelCore.Role.LoadAll()
+[15:26:05] [SadegelCore] Creat COUNTRY Espanya
+[15:34:16] [SadegelCore] Creat PRODUCTCATEGORY BEGUDES
+[15:34:27] [SadegelCore] Error a l'actualitzar PRODUCTCATEGORY BEBIDAS
+[15:34:43] [SadegelCore] Error a l'actualitzar PRODUCTCATEGORY BEBIDAS
+[15:39:14] [SadegelCore] Actualitzat PRODUCTCATEGORY BEBIDAS
+[15:39:24] [SadegelCore] Excepció al eliminar PRODUCTCATEGORY BEBIDAS
+[15:39:24] Truncated incorrect DOUBLE value: 'BEBIDAS'
+[15:39:24]    at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at SadegelCore.ProductCategory.Delete()
+[15:40:38] [SadegelCore] Eliminat PRODUCTCATEGORY BEBIDAS
+[15:42:53] [SadegelCore] Creat PRODUCTCATEGORY BEGUDES
+[15:42:59] [SadegelCore] Creat PRODUCTCATEGORY SNACKS
+[15:43:06] [SadegelCore] Creat PRODUCTCATEGORY CAFETERIA
+[15:43:14] [SadegelCore] Creat PRODUCTCATEGORY PROMOCIONS
+[15:43:54] [SadegelCore] Creat PRODUCTCATEGORY GELATS/ORXATA/MILKSHAKE/SMOTHIES
+[15:44:21] [SadegelCore] Excepció a l'actualitzar PRODUCTCATEGORY GRANISSATS/ORXATA/MILKSHAKE/SMOTHIES
+[15:44:21] Data too long for column 'categoryName' at row 1
+[15:44:21]    at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at SadegelCore.ProductCategory.Update()
+[15:44:37] [SadegelCore] Excepció a l'actualitzar PRODUCTCATEGORY GRANISSATS/ORXATA/MILKSHAKE/SMOTHIES
+[15:44:37] Data too long for column 'categoryName' at row 1
+[15:44:37]    at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at SadegelCore.ProductCategory.Update()
+[15:45:10] [SadegelCore] Actualitzat PRODUCTCATEGORY BATUTS/GRANISSATS
+[15:46:00] [SadegelCore] Creat PRODUCTCATEGORY GENERAL
+[15:46:53] [SadegelCore] Creat PRODUCT ENTREPÀ FUET, TYPE: consumable, CATEGORY: GENERAL
+[15:47:09] [SadegelCore] Error a l'afegir identificador bocadillo fuet per a PRODUCT 1. Probablement duplicat.
+[15:47:09] Duplicate entry '1' for key 'productId'
+[15:47:09]    at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at SadegelCore.Product.AddIdentifier(String Identifier)
+[15:47:21] [SadegelCore] Error a l'afegir identificador bocadillo fuet per a PRODUCT 1. Probablement duplicat.
+[15:47:21] Duplicate entry '1' for key 'productId'
+[15:47:21]    at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at SadegelCore.Product.AddIdentifier(String Identifier)
+[15:49:46] [SadegelCore] Error a l'afegir identificador bocadillo fuet per a PRODUCT 1. Probablement duplicat.
+[15:49:46] Duplicate entry '1' for key 'productId'
+[15:49:46]    at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at SadegelCore.Product.AddIdentifier(String Identifier)
+[15:52:59] [SadegelCore] Afegir identificador bocadillo fuet per a PRODUCT 1
+[15:53:05] [SadegelCore] Afegir identificador ENTREPA FUET per a PRODUCT 1
+[15:53:41] [SadegelCore] Creat PRODUCT ENTREPÀ PERNIL I FORMATGE, TYPE: consumable, CATEGORY: GENERAL
+[15:54:06] [SadegelCore] Afegir identificador bocadillo jamon y queso per a PRODUCT 2
+[15:54:33] [SadegelCore] Creat PRODUCT ENTREPÀ POLLASTRE, TYPE: consumable, CATEGORY: GENERAL
+[15:54:45] [SadegelCore] Afegir identificador bocadillo pollo per a PRODUCT 3
+[15:55:40] [SadegelCore] Creat PRODUCT CAFÈ AMB LLET, TYPE: consumable, CATEGORY: GENERAL
+[15:55:58] [SadegelCore] Afegir identificador cafe leche alcampo per a PRODUCT 4
+[15:57:05] [SadegelCore] Creat PRODUCTCATEGORY GELATS
+[15:57:34] [SadegelCore] Creat PRODUCT CON PETIT 1B, TYPE: consumable, CATEGORY: GELATS
+[15:58:03] [SadegelCore] Creat PRODUCT CON CROCANTI, TYPE: consumable, CATEGORY: GELATS
+[15:58:32] [SadegelCore] Creat PRODUCT TERRINA MITJANA 3B, TYPE: consumable, CATEGORY: GELATS
+[15:58:52] [SadegelCore] Creat PRODUCT TERRINA GRAN 4B, TYPE: consumable, CATEGORY: GELATS
+[15:59:13] [SadegelCore] Creat PRODUCT CON MITJA 2B, TYPE: consumable, CATEGORY: GELATS
+[15:59:30] [SadegelCore] Creat PRODUCT TERRINA PETITA 2B, TYPE: consumable, CATEGORY: GELATS

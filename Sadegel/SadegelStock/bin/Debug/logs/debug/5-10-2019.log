@@ -1,0 +1,103 @@
+[16:29:55] Unable to connect to any of the specified MySQL hosts.
+[16:29:57] [SadegelCore] Excepció al carregar SHOPs
+[16:29:57] Unable to connect to any of the specified MySQL hosts.
+[16:29:57]    at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Open()
+   at MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at SadegelCore.GlobalSettings.Initialize()
+[16:29:59] [SadegelCore] Excepció al carregar COUNTRYs
+[16:29:59] Unable to connect to any of the specified MySQL hosts.
+[16:29:59]    at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Open()
+   at MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at SadegelCore.Country.LoadAll()
+[16:30:01] [SadegelCore] Excepció al carregar PRODUCTCATEGORYs
+[16:30:01] Unable to connect to any of the specified MySQL hosts.
+[16:30:01]    at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Open()
+   at MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at SadegelCore.ProductCategory.LoadAll()
+[16:30:03] [SadegelCore] Excepció al carregar PRODUCTs
+[16:30:03] Unable to connect to any of the specified MySQL hosts.
+[16:30:03]    at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Open()
+   at MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at SadegelCore.Product.LoadAll()
+[16:30:05] [SadegelCore] Excepció al carregar SHOPs
+[16:30:05] Unable to connect to any of the specified MySQL hosts.
+[16:30:05]    at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Open()
+   at MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at SadegelCore.Shop.LoadAll()
+[16:30:07] [SadegelCore] Excepció al carregar PROVIDERs
+[16:30:07] Unable to connect to any of the specified MySQL hosts.
+[16:30:07]    at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Open()
+   at MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at SadegelCore.Provider.LoadAll()
+[16:30:09] [SadegelCore] Excepció al carregar ROLEs
+[16:30:09] Unable to connect to any of the specified MySQL hosts.
+[16:30:09]    at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Open()
+   at MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at SadegelCore.Role.LoadAll()
+[16:30:11] Unable to connect to any of the specified MySQL hosts.
+[16:30:11]    at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Open()
+   at MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at SadegelCore.Logs.GetEventLog(DateTime Since, Int32 Last, String Origin, String Type, Int32 RelatedWith)
+[16:30:13] Unable to connect to any of the specified MySQL hosts.
+[16:30:13]    at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Open()
+   at MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at SadegelCore.Logs.GetEventLog(DateTime Since, Int32 Last, String Origin, String Type, Int32 RelatedWith)
+[17:07:42] Specified argument was out of the range of valid values.
+Parameter name: Value cannot be less 1 and greater than max column index.
+[17:07:42]    at Syncfusion.XlsIO.Implementation.WorksheetImpl.InsertColumn(Int32 iColumnIndex, Int32 iColumnCount, ExcelInsertOptions insertOptions)
+   at Syncfusion.XlsIO.Implementation.WorksheetImpl.InsertColumn(Int32 iColumnIndex)
+   at SadegelStock.Excel.GenerateStockMassiveModificationTemplate(Shop Shop) in F:\Repositorios\SadegelStock\SadegelStock\Sadegel\SadegelStock\Excel.cs:line 103
